@@ -2,7 +2,7 @@ from urllib.parse import urlparse
 from pathlib import Path
 
 #
-# getdirs.py - written by d3d @MCoetus 2022
+# getdirs.py - written by d3d @deadvolvo 2022
 #
 
 
